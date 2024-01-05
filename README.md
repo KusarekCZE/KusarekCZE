@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating websites.
 - 🌱 I’m currently learning everything.
 - 💞️ I’m looking to collaborate on making websites.
-- 📫 How to reach me #Kusarek#8594
+- 📫 Reach me on discord: Kusarek
 
 <!---
 KusarekCZE/KusarekCZE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
